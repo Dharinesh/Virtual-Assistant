@@ -2,6 +2,11 @@
 
 This project is a Virtual Humanoid Assistant that can understand voice inputs, generate text responses using the Llama-2 language model, convert the text responses to speech, and generate a video with lip-sync animation using the Wav2Lip repository.
 
+## Sample Output:
+
+https://github.com/Dharinesh/Virtual-Assistant/assets/108059896/0639e96e-d718-48ee-baa5-197de74d3d4e
+
+
 ## Features
 
 - Voice input recognition
