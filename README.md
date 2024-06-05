@@ -6,6 +6,7 @@ This project is a Virtual Humanoid Assistant that can understand voice inputs, g
 
 https://github.com/Dharinesh/Virtual-Assistant/assets/108059896/0639e96e-d718-48ee-baa5-197de74d3d4e
 
+### Disclaimer: This Picture of the Personality is used only for Educational Purposes and not intended for misuse
 
 ## Features
 
